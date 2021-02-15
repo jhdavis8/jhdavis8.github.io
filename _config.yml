@@ -120,7 +120,6 @@ plugins:
   # - bootstrap
   # - material-sass
 
-plugins: ['jekyll-twitter-plugin']
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
