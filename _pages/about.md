@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a senior undergraduate computer science student at the {University of Delaware](https://www.udel.edu/) and prospective PhD student for Fall 2021. I plan to graduate with a B.S. in Computer Science as well as a B.A. in Philosophy and minor in Mathematics in May 2021.
+I am a senior undergraduate computer science student at the [University of Delaware](https://www.udel.edu/) and prospective PhD student for Fall 2021. I plan to graduate with a B.S. in Computer Science as well as a B.A. in Philosophy and minor in Mathematics in May 2021.
 
 Broadly, I am interested in the intersection of high-performance computing with formal methods and programming languages. Computational scientists depend on useful programming abstractions for complex underlying computational technologies to squeeze fast, correct performance out of modern supercomputers. I plan to develop improvements to existing programming models and tools that interact with these models to tackle challenges in performance portability and correctness in HPC, particularly those facing deep learning workloads.
 
