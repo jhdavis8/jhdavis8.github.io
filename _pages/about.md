@@ -20,6 +20,8 @@ Broadly, I am interested in the intersection of high-performance computing with 
 
 Currently, I work with the [Computational Research and Programming Lab](https://crpl.cis.udel.edu/) and the [Verified Software Lab](http://vsl.cis.udel.edu/) at UD on projects related to these topics. First and foremost, I am a developer for the [SOLLVE OpenMP V&V test suite](https://github.com/SOLLVE/sollve_vv), part of the Exascale Computing Project (ECP). To see the latest results from the V&V suite, check out [our website](https://crpl.cis.udel.edu/ompvvsollve/results/). My second main project at the moment is automatically formally verifying data structures from [<i>The Art of Multiprocessor Programming</i>](https://www.elsevier.com/books/the-art-of-multiprocessor-programming/herlihy/978-0-12-415950-1), using [CIVL](http://vsl.cis.udel.edu/civl/). The source code for that project can be found [here](https://github.com/jhdavis8/amp-ver).
 
+[My CV is available here.](/assets/pdf/Joshua_Davis_CV.pdf)
+
 {% comment %}
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
