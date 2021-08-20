@@ -7,18 +7,22 @@ description: <i>About me.</i>
 profile:
   align: right
   image: prof_pic.jpg
-  address: # <p>Newark, Delaware, USA</p>
+  address: # <p>Silver Spring, Maryland, USA</p>
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a senior undergraduate computer science student at the [University of Delaware](https://www.udel.edu/) and prospective PhD student for Fall 2021. I plan to graduate with a B.S. in Computer Science as well as a B.A. in Philosophy and minor in Mathematics in May 2021.
+I am a first-year computer science PhD student at the [University of Maryland, College Park](https://www.cs.umd.edu/). I graduated with a B.S. in Computer Science as well as a B.A. in Philosophy and minor in Mathematics in May 2021.
 
 Broadly, I am interested in the intersection of high-performance computing with formal methods and programming languages. Computational scientists depend on useful programming abstractions to extract fast, correct performance out of modern supercomputers, which use highly complex underlying computational technologies. I plan to develop improvements to existing programming models, and develop new tools that interact with these models, to tackle challenges in performance portability and correctness in HPC applications.
 
-Currently, I work with the [Computational Research and Programming Lab](https://crpl.cis.udel.edu/) and the [Verified Software Lab](http://vsl.cis.udel.edu/) at UD on projects related to these topics. First and foremost, I am a developer for the [SOLLVE OpenMP V&V test suite](https://github.com/SOLLVE/sollve_vv), part of the Exascale Computing Project (ECP). To see the latest results from the V&V suite, check out [our website](https://crpl.cis.udel.edu/ompvvsollve/results/). My second main project at the moment is automatically formally verifying data structures from [<i>The Art of Multiprocessor Programming</i>](https://www.elsevier.com/books/the-art-of-multiprocessor-programming/herlihy/978-0-12-415950-1), using [CIVL](http://vsl.cis.udel.edu/civl/). The source code for that project can be found [here](https://github.com/jhdavis8/amp-ver).
+Currently, I am a member of the [Parallel Software and Systems Group](https://pssg.cs.umd.edu/) at the University of Maryland.
+
+At UD, I worked with the [Computational Research and Programming Lab](https://crpl.cis.udel.edu/) at UD as a developer for the [SOLLVE OpenMP V&V test suite](https://github.com/SOLLVE/sollve_vv), part of the Exascale Computing Project (ECP). To see the latest results from the V&V suite, check out [our website](https://crpl.cis.udel.edu/ompvvsollve/results/).
+
+At the moment I am additionally involved with automatically formally verifying data structures from [<i>The Art of Multiprocessor Programming</i>](https://www.elsevier.com/books/the-art-of-multiprocessor-programming/herlihy/978-0-12-415950-1), using [CIVL](http://vsl.cis.udel.edu/civl/), collaborating with the [Verified Software Lab](http://vsl.cis.udel.edu/) at UD. The source code for that project can be found [here](https://github.com/jhdavis8/amp-ver).
 
 [My CV is available here.](/assets/pdf/Joshua_Davis_CV.pdf)
 
