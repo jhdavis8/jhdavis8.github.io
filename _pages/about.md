@@ -14,7 +14,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a first-year computer science PhD student at the [University of Maryland, College Park](https://www.cs.umd.edu/). I graduated with a B.S. in Computer Science as well as a B.A. in Philosophy and minor in Mathematics in May 2021.
+I am a first-year computer science PhD student at the [University of Maryland, College Park](https://www.cs.umd.edu/). I graduated from the [University of Delaware](https://www.cis.udel.edu/) with a B.S. in Computer Science as well as a B.A. in Philosophy and minor in Mathematics in May 2021.
 
 Broadly, I am interested in the intersection of high-performance computing with formal methods and programming languages. Computational scientists depend on useful programming abstractions to extract fast, correct performance out of modern supercomputers, which use highly complex underlying computational technologies. I plan to develop improvements to existing programming models, and develop new tools that interact with these models, to tackle challenges in performance portability and correctness in HPC applications.
 
