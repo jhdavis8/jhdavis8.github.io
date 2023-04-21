@@ -1,12 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - jhdavis8
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - jhdavis8/omp-gpu-perf-suite
+  - SOLLVE/sollve_vv
+  - jhdavis8/amp-ver
+  - jhdavis8/data-size-sort
