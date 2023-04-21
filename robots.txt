@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://jhdavis8.github.io/jhdavis8.github.io//sitemap.xml
