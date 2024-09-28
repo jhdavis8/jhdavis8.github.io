@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>About me</a>.
+subtitle: <a href='https://pronouns.org/'>he/him/his</a>
 
 profile:
   align: right
